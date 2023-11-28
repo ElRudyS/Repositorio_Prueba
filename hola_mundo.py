@@ -1,3 +1,3 @@
 print("Hola mundo, he modificado este documento DIOS!")
-for i in range(0,50):
-    print("KABOOM XIMPUM")
+for i in range(0,5):
+    print("KABOOM")
